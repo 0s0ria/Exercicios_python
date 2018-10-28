@@ -1,5 +1,4 @@
 
-
 def FloatReal(num):
     n = str(num)
     if 'e' in n:
